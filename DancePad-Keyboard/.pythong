@@ -1,0 +1,23 @@
+author: Liam Middlebrook
+classifiers: []
+description: A project using the Arduino that allows users to simulate keyboard inputs
+  via a dancepad.
+directories: [/home/liam/repos/ddrMat/DancePad-Keyboard, /home/liam/repos/ddrMat/DancePad-Keyboard/docs,
+  /home/liam/repos/ddrMat/DancePad-Keyboard/DancePad-Keyboard]
+docs_dir: /home/liam/repos/ddrMat/DancePad-Keyboard/docs
+email: liammiddlebrook@gmail.com
+encoding: utf8
+files: [/home/liam/repos/ddrMat/DancePad-Keyboard/MANIFEST.in, /home/liam/repos/ddrMat/DancePad-Keyboard/setup.py,
+  /home/liam/repos/ddrMat/DancePad-Keyboard/DancePad-Keyboard/__init__.py]
+init_file: null
+keywords: [arduino, physical, dance, game]
+license: MIT License
+manifest: /home/liam/repos/ddrMat/DancePad-Keyboard/MANIFEST.in
+name: DancePad-Keyboard
+project_dir: /home/liam/repos/ddrMat/DancePad-Keyboard
+requires: [PySerial]
+setup_file: /home/liam/repos/ddrMat/DancePad-Keyboard/setup.py
+shortname: DancePad-Keyboard
+source_dir: /home/liam/repos/ddrMat/DancePad-Keyboard/DancePad-Keyboard
+url: https://github.com/liam-middlebrook/dancepad-keyboard
+version: 0.1.0
