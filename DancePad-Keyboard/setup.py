@@ -28,6 +28,7 @@ setup(
     zip_safe=False,
     install_requires=[
         "PySerial",
+	"python uinput",
     ],
     #TODO: Deal with entry_points
     #entry_points="""
