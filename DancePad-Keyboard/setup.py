@@ -17,7 +17,7 @@ setup(
     keywords="arduino physical dance game",
     author="Liam Middlebrook",
     author_email="liammiddlebrook@gmail.com",
-    url="https://github.com/liam-middlebrook/dancepad-keyboard",
+    url="https://github.com/liam-middlebrook/dancepad",
     license="MIT License",
     packages=find_packages(
     ),
